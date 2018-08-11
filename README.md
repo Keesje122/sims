@@ -1,44 +1,6 @@
 # Antorus Composite
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Dagger_in_the_Back_1|13985|4.75%|
-|Thunderous_Blast_1|13978|4.69%|
-|Laser_Matrix_1|13922|4.28%|
-|Blightborne_Infusion_1|13849|3.72%|
-|Rezans_Fury_1|13806|3.41%|
-|Champion_of_Azeroth_1|13805|3.40%|
-|Tidal_Surge_1|13802|3.38%|
-|Sandstorm_1|13796|3.33%|
-|Unstable_Catalyst_1|13774|3.16%|
-|Death_Throes_1|13765|3.10%|
-|Filthy_Transfusion_1|13742|2.92%|
-|Sylvanas_Resolve_1|13716|2.73%|
-|Archive_of_the_Titans_1|13686|2.51%|
-|Tradewinds_1|13674|2.42%|
-|Incite_the_Pack_1|13652|2.25%|
-|Ruinous_Bolt_1|13619|2.01%|
-|Blood_Rite_1|13618|2.00%|
-|Glory_in_Battle_1|13600|1.86%|
-|Heed_My_Call_1|13566|1.61%|
-|Chorus_of_Insanity_1|13563|1.59%|
-|Int_100|13536|1.38%|
-|Azerite_Globules_1|13525|1.30%|
-|Retaliatory_Fury_1|13524|1.29%|
-|Harvested_Thoughts_1|13517|1.24%|
-|Overwhelming_Power_1|13505|1.15%|
-|Unstable_Flames_1|13503|1.14%|
-|Spiteful_Apparitions_1|13501|1.12%|
-|Earthlink_1|13498|1.10%|
-|Spiteful_Apparitions_1_AS|13490|1.04%|
-|Elemental_Whirl_1|13483|0.98%|
-|Collective_Will_1|13475|0.93%|
-|On_My_Way_1|13474|0.92%|
-|Whispers_of_the_Damned_1|13469|0.88%|
-|Blood_Siphon_1|13468|0.87%|
-
-# Antorus Composite
-| Actor | DPS | Increase |
-|---|:---:|:---:|
 |Dagger_in_the_Back_1|13661|4.87%|
 |Thunderous_Blast_1|13655|4.82%|
 |Laser_Matrix_1|13598|4.39%|
