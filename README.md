@@ -9,8 +9,6 @@
 |Rezans_Fury_1|13480|3.48%|
 |Tidal_Surge_1|13473|3.42%|
 |Sandstorm_1|13469|3.39%|
-|Heed_My_Call_2|13454|3.28%|
-|Overwhelming_Power_2|13442|3.19%|
 |Death_Throes_1|13442|3.19%|
 |Unstable_Catalyst_1|13437|3.15%|
 |Filthy_Transfusion_1|13421|3.02%|
