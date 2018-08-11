@@ -8,9 +8,7 @@
 |Rezans_Fury_1|13806|3.41%|
 |Champion_of_Azeroth_1|13805|3.40%|
 |Tidal_Surge_1|13802|3.38%|
-|Spiteful_Apparitions_3|13796|3.33%|
 |Sandstorm_1|13796|3.33%|
-|Earthlink_3|13794|3.32%|
 |Unstable_Catalyst_1|13774|3.16%|
 |Death_Throes_1|13765|3.10%|
 |Filthy_Transfusion_1|13742|2.92%|
